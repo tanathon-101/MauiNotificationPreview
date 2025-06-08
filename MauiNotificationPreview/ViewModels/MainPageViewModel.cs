@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using MauiNotificationPreview.Models;
+using MauiNotificationPreview.model;
 
 namespace MauiNotificationPreview.ViewModels;
 
@@ -22,9 +22,7 @@ public class MainPageViewModel : INotifyPropertyChanged
 
     public MainPageViewModel()
     {
-        // ตัวอย่าง noti mock
-        Previews.Add(new NotiPreview { App = "LINE", Title = "Alice", Message = "ไปกินข้าวกันไหม?", Timestamp = DateTime.Now });
-        Previews.Add(new NotiPreview { App = "Instagram", Title = "Bob", Message = "ส่ง Reel มาให้คุณ", Timestamp = DateTime.Now.AddMinutes(-10) });
+        // Mock data removed for production use.
     }
 
     public event PropertyChangedEventHandler? PropertyChanged;

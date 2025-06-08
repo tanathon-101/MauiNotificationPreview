@@ -1,6 +1,6 @@
 // File: Services/NotificationCacheService.cs
 using System.Collections.ObjectModel;
-using MauiNotificationPreview.Models;
+using MauiNotificationPreview.model;
 
 namespace MauiNotificationPreview.Services;
 
