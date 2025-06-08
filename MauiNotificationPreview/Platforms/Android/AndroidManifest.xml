@@ -1,17 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-	<application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.companyname.mauinotificationpreview">
+
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
-</manifest>
-<!-- File: Platforms/Android/AndroidManifest.xml -->
-<application ... >
-    <service android:name=".NotifReaderService"
-             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
-        <intent-filter>
-            <action android:name="android.service.notification.NotificationListenerService" />
-        </intent-filter>
-    </service>
-</application>
+	<uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
 
-<uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+	<application android:label="MauiNotificationPreview"
+                 android:icon="@mipmap/appicon"
+                 android:roundIcon="@mipmap/appicon_round"
+                 android:theme="@style/Maui.SplashTheme"
+                 android:allowBackup="true"
+                 android:supportsRtl="true">
+		<service android:name=".NotifReaderService"
+                 android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+                 android:exported="true">
+			<intent-filter>
+				<action android:name="android.service.notification.NotificationListenerService" />
+			</intent-filter>
+		</service>
+	</application>
+
+</manifest>
