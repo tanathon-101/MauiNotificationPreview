@@ -3,9 +3,9 @@ namespace MauiNotificationPreview;
 
 public partial class App : Application
 {
-    public App(MainPage mainPage)
+    public App()
     {
         InitializeComponent();
-        MainPage = new NavigationPage(mainPage);
+        MainPage = new AppShell(); // ✅ ใช้ Shell เป็น root layout
     }
 }

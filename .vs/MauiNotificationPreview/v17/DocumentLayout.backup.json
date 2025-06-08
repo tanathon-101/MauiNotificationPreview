@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\platforms\\android\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\platforms\\android\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|c:\\users\\gbenjamas\\onedrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetworkshop\\mauinotificationpreview\\mauinotificationpreview\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2CF8471-7BE0-D261-3398-31B8BF735677}|MauiNotificationPreview\\MauiNotificationPreview.csproj|solutionrelative:mauinotificationpreview\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MauiNotificationPreview\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml.cs",
               "RelativeToolTip": "MauiNotificationPreview\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:04:56.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MauiNotificationPreview\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml.cs",
-              "RelativeToolTip": "MauiNotificationPreview\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:04:50.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MauiNotificationPreview\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml",
-              "RelativeToolTip": "MauiNotificationPreview\\MainPage.xaml",
-              "ViewState": "AgIAABkAAADA4+JlG6AkwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T14:03:44.41Z",
+              "WhenOpened": "2025-06-08T14:28:45.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml",
-              "RelativeDocumentMoniker": "MauiNotificationPreview\\App.xaml",
-              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml",
-              "RelativeToolTip": "MauiNotificationPreview\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiNotificationPreview\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\MainPage.xaml",
+              "RelativeToolTip": "MauiNotificationPreview\\MainPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T14:03:41.106Z"
+              "WhenOpened": "2025-06-08T14:28:30.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiNotificationPreview\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiNotificationPreview\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:28:24.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "MauiNotificationPreview\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "MauiNotificationPreview\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-06-08T14:01:17.489Z"
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiNotificationPreview\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\AppShell.xaml",
+              "RelativeToolTip": "MauiNotificationPreview\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T14:28:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiNotificationPreview\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\GBenjamas\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\dotnetWorkShop\\MauiNotificationPreview\\MauiNotificationPreview\\App.xaml.cs",
+              "RelativeToolTip": "MauiNotificationPreview\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:50.662Z",
+              "EditorCaption": ""
             }
           ]
         }
