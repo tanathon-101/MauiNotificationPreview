@@ -31,7 +31,11 @@ public static class MauiProgram
 #if ANDROID
         // เชื่อม instance ให้ Android platform ใช้ static push noti ได้
         var service = app.Services.GetService<NotificationCacheService>();
-        MauiNotificationPreview.Platforms.Android.NotificationCacheServiceStatic.Instance = service;
+        if (service != null)
+        {
+            // Ensure the namespace and class exist and are accessible
+            MauiNotificationPreview.Platforms.Android.NotificationCacheServiceStatic.Instance = service;
+        }
 #endif
 
         return app;
