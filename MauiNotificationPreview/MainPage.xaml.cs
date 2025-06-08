@@ -1,7 +1,7 @@
-// File: Views/MainPage.xaml.cs
 using Microsoft.Maui.Controls;
 
-namespace MauiNotificationPreview.Views;
+// File: Views/MainPage.xaml.cs
+namespace MauiNotificationPreview;
 
 public partial class MainPage : ContentPage
 {

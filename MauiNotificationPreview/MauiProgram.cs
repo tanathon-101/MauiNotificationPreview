@@ -1,7 +1,10 @@
 ﻿// File: MauiProgram.cs
+using Microsoft.Maui;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Hosting;
+using Microsoft.Maui.Hosting;
 using MauiNotificationPreview.Services;
 using MauiNotificationPreview.ViewModels;
-using MauiNotificationPreview.Views;
 
 namespace MauiNotificationPreview;
 

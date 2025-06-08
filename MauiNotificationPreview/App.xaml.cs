@@ -1,6 +1,4 @@
 ﻿// File: App.xaml.cs
-using MauiNotificationPreview.Views;
-
 namespace MauiNotificationPreview;
 
 public partial class App : Application
