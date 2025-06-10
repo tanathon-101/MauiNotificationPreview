@@ -7,8 +7,13 @@ using MauiNotificationPreview.Services;
 
 namespace MauiNotificationPreview.Platforms.Android
 {
-    [Service(Label = "NotifReader", Permission = "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE")]
-    [IntentFilter(new[] { "android.service.notification.NotificationListenerService" })]
+    [Service(
+        Label = "NotifReader",
+        Permission = "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE",
+        Exported = true // ✅ ต้องใส่ explicit
+    )]   
+ [IntentFilter(["android.service.notification.NotificationListenerService"])]
+    
     public class NotifReaderService : NotificationListenerService
     {
         public override void OnNotificationPosted(StatusBarNotification sbn)
